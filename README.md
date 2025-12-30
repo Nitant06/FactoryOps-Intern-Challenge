@@ -18,7 +18,8 @@ A robust, offline-first mobile application designed for shop floor operators to 
     npx expo start --tunnel
     ```
     *(Note: The `--tunnel` flag is recommended if running on an Android Emulator on Windows to avoid network firewall issues).*
-3.  **Launch:** Scan the QR code with Expo Go or press `a` for Android Emulator.
+    
+4.  **Launch:** Scan the QR code with Expo Go or press `a` for Android Emulator.
 
 
 ### Offline & Sync Design (Architecture)
